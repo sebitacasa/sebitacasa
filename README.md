@@ -1,4 +1,5 @@
-https://www.canva.com/design/DAFBoipPjYU/e21-JJGy_Px3yBid-WmUlw/edit?utm_content=DAFBoipPjYU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+![SEBASTIAN RODRIGUEZ](https://user-images.githubusercontent.com/89590493/170119656-ac131234-d3c2-4e21-bf94-fa2dfb2e28b5.png)
+
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Sebastian</h2>
 
