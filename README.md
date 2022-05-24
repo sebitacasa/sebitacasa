@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Adita%20Vikram%20Singh%20Banner.jpg)
+![Aditya Vikram Singh Banner]([https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Adita%20Vikram%20Singh%20Banner.jpg](https://www.canva.com/design/DAFBoipPjYU/e21-JJGy_Px3yBid-WmUlw/edit?utm_content=DAFBoipPjYU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Sebastian</h2>
 
