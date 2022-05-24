@@ -22,11 +22,7 @@
 As a Full-Stack, I know how to perform myself in both, Front-End as much as Back-End sides of the development.
 Currently, I´m looking forward to having my first opportunity to work with pairs who have the same passion for the It world as me and to continue learning new technologies and facing new challenges. 
 
- Contact me! 
 
-WhatsApp: (+54 9) 248-448-6486
-e-Mail: seba.-14@hotmail.com
-GitHub: https://github.com/sebitacasa
 
 --------------------------------------------------------------------------------------------------------------------
 **¡Hola! ¡Soy Sebastian y soy Full-Stack Web Developer Jr. en busca de mi primer trabajo!. Durante mucho tiempo estudié Lógica y ahora estoy muy feliz de tener la posibilidad de aplicarla en conjunto con todas las tecnologías que aprendí en Henry Bootcamp, donde me formé con su curso intensivo de Full -Desarrollador Web Stack, que cuenta con muchas y muchas horas de práctica y aprendizaje.
@@ -45,9 +41,7 @@ Actualmente, estoy deseando tener mi primera oportunidad de trabajar con persona
 
  Contacto ! 
 
-WhatsApp: (+54 9) 248-448-6486
-e-Mail: seba.-14@hotmail.com
-GitHub: https://github.com/sebitacasa
+
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
