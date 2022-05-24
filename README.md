@@ -25,21 +25,7 @@ Currently, I´m looking forward to having my first opportunity to work with pair
 
 
 --------------------------------------------------------------------------------------------------------------------
-**¡Hola! ¡Soy Sebastian y soy Full-Stack Web Developer Jr. en busca de mi primer trabajo!. Durante mucho tiempo estudié Lógica y ahora estoy muy feliz de tener la posibilidad de aplicarla en conjunto con todas las tecnologías que aprendí en Henry Bootcamp, donde me formé con su curso intensivo de Full -Desarrollador Web Stack, que cuenta con muchas y muchas horas de práctica y aprendizaje.
 
-°°¿Con qué tecnologías trabajo?
-
-◽Languages: Javascript, SQL
-◾Front-End : React | Redux | Hooks | React-Router | Bootstrap | CSS | HTML | Boostrap
-◽Back-End : Node.js | Express | Moongose
-◾DataBase: SEQUELIZE | PostgreSQL | SQLite | MongoDb
-◾Metodologias: SCRUM 
-◾GIT | GITHUB 
-
-Como Full-Stack, sé cómo desempeñarme tanto en el Front-End como en el Back-End.
-Actualmente, estoy deseando tener mi primera oportunidad de trabajar con personas que tengan la misma pasión por el mundo de la informática que yo y así continuar aprendiendo nuevas tecnologías y afrontando nuevos retos.
-
- Contacto ! 
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
