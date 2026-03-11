@@ -55,27 +55,12 @@ Ich bin derzeit mit einem Working-Holiday-Visum hier. Mein Deutsch ist noch auf 
 ### 🎓 &nbsp;Education & Certifications
 
 * **Full-Stack Web Developer** - Soy Henry Bootcamp | [View Certificate](https://drive.google.com/file/d/1_UV8JpZ2bAdUnQeg-bCRvFOfFDbz_J4d/view?usp=sharing)
+* **Intensive Node.js Backend Bootcamp** - Alkemy | [View Certificate](https://drive.google.com/file/d/1bIfWziptDM54sW6_wU8gVMM2kJjcfVw6/view?usp=sharing)
 * **Background in Logic** - Extensive academic training in formal logic, providing a robust foundation for algorithmic thinking and complex problem-solving.
 
 ---
 
 ### 📫 &nbsp;Let's Connect!
 
-* **Email:** seba.-14@hotmail.com
-
-
-
-
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/sebastianrodriguez1495"><img src="https://img.shields.io/badge/-Sebastian%20Rodriguez%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:sebitacasa14@gmail.com"><img src="https://img.shields.io/badge/-sebitacasa14@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/sebitacasa/?hl=en"><img src="https://img.shields.io/badge/-@sebitacasa__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-
-</p>
-
------
-
+* **LinkedIn:** [Pega_AQUI_el_enlace_a_tu_LinkedIn]
+* **Email:** [Tu_Correo_AQUI]
