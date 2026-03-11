@@ -54,16 +54,14 @@ Ich bin derzeit mit einem Working-Holiday-Visum hier. Mein Deutsch ist noch auf 
 
 ### 🎓 &nbsp;Education & Certifications
 
-* **Full-Stack Web Developer** - Soy Henry Bootcamp | [View Certificate]([Pega_AQUI_el_enlace_a_tu_certificado])
+* **Full-Stack Web Developer** - Soy Henry Bootcamp | [View Certificate](https://drive.google.com/file/d/1_UV8JpZ2bAdUnQeg-bCRvFOfFDbz_J4d/view?usp=sharing)
 * **Background in Logic** - Extensive academic training in formal logic, providing a robust foundation for algorithmic thinking and complex problem-solving.
 
 ---
 
 ### 📫 &nbsp;Let's Connect!
 
-* **LinkedIn:** [Pega_AQUI_el_enlace_a_tu_LinkedIn]
-* **Email:** [Tu_Correo_AQUI]
-
+* **Email:** seba.-14@hotmail.com
 
 
 
