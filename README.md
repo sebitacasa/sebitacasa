@@ -1,50 +1,68 @@
-![SEBASTIAN RODRIGUEZ](https://user-images.githubusercontent.com/89590493/170119656-ac131234-d3c2-4e21-bf94-fa2dfb2e28b5.png)
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand-Wave.gif" width='40' align="left"/>
 
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Sebastian</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<h2>Hey there! I'm Sebastian</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-**Hi! I´m Sebastian and I am a Full-Stack Web Developer Jr. looking for my first job!. For a long time, I studied Logic so I´m a logician but now I´m so happy to have the possibility to apply it in conjunction with all the technologies that I learned in Henry Bootcamp, where I formed myself with their intensive course for Full-Stack Web Developer, which counts with many and many hours of practicing and learning.
+**Hi! I'm Sebastian, a Full-Stack Developer** with a unique background in Logic. My analytical roots give me a strong foundation for problem-solving, but my true passion lies in programming and bringing complex ideas to life through code. 
 
-°°Which technologies do I work with? 
+While I am comfortable across the entire stack, my current focus leans heavily towards **Backend architecture (Node.js, Express, PostgreSQL/PostGIS)**, seamlessly integrated with modern **Frontend and Mobile technologies (React, React Native)** using JavaScript.
 
-◽Languages: Javascript, SQL
-◾Front-End : React | Redux | Hooks | React-Router | Bootstrap | CSS | HTML | Bootstrap 
-◽Back-End : Node.js | Express | Moongose
+🌱 **What sets me apart:**
+* **Self-Taught & Adaptable:** I thrive on learning new technologies independently. Whether it's mastering geospatial databases or adopting a new framework, I pick up tools quickly and efficiently.
+* **Passionate Coder:** I genuinely love programming. For me, it's not just about writing lines of code, but about building meaningful architecture and solving real-world problems.
 
-◾DataBase: SEQUELIZE | PostgreSQL | SQLite | MongoDb
-◾Metodologias: SCRUM 
-◾GIT | GITHUB 
+🌍 **Current Status:**
+Ich bin derzeit mit einem Working-Holiday-Visum hier. Mein Deutsch ist noch auf einem grundlegenden Niveau, aber ich lerne fleißig! Ich spreche fließend Englisch und kann mich im internationalen IT-Umfeld problemlos und souverän verständigen.
 
-As a Full-Stack, I know how to perform myself in both, Front-End as much as Back-End sides of the development.
-Currently, I´m looking forward to having my first opportunity to work with pairs who have the same passion for the It world as me and to continue learning new technologies and facing new challenges. 
+---
 
-
-
---------------------------------------------------------------------------------------------------------------------
-
-
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="300"/>
 
 ### 🛠 &nbsp;Tech Stack
 
+**Backend & Databases:**
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![PostGIS](https://img.shields.io/badge/-PostGIS-05122A?style=flat&logo=postgresql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 
+**Frontend & Mobile:**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![React Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+
+**Tools & Methodologies:**
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Scrum](https://img.shields.io/badge/-SCRUM-05122A?style=flat)&nbsp;
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+---
 
+### 🚀 &nbsp;Featured Projects & Live Apps
 
+* [**🏰 CastleApp (Echoes & Paths)**](https://github.com/sebitacasa/CastleApp-frontEnd) - Geospatial mobile app discovering European heritage using React Native and PostGIS. 
+*(Currently in Closed Internal Testing on Google Play. Access to the testing track available upon request!)*
+* [**🎬 WatchIt**](https://watchit-frontend.vercel.app) - A modern, interactive web interface for tracking and discovering movies and series.
+* [**📅 Events App**](https://new-events-final-bh3s.vercel.app) - A full-stack platform designed for managing, creating, and discovering local events.
+
+---
+
+### 🎓 &nbsp;Education & Certifications
+
+* **Full-Stack Web Developer** - Soy Henry Bootcamp | [View Certificate]([Pega_AQUI_el_enlace_a_tu_certificado])
+* **Background in Logic** - Extensive academic training in formal logic, providing a robust foundation for algorithmic thinking and complex problem-solving.
+
+---
+
+### 📫 &nbsp;Let's Connect!
+
+* **LinkedIn:** [Pega_AQUI_el_enlace_a_tu_LinkedIn]
+* **Email:** [Tu_Correo_AQUI]
 
 
 
