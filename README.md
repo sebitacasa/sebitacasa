@@ -9,11 +9,13 @@
 While I am comfortable across the entire stack, my current focus leans heavily towards **Backend architecture (Node.js, Express, PostgreSQL/PostGIS)**, seamlessly integrated with modern **Frontend and Mobile technologies (React, React Native)** using JavaScript.
 
 🌱 **What sets me apart:**
+* **AI-Driven Productivity:** I actively leverage AI assistants (like Google Gemini) to optimize code, debug efficiently, and accelerate the entire development cycle, allowing me to focus on robust architecture and complex business logic.
 * **Self-Taught & Adaptable:** I thrive on learning new technologies independently. Whether it's mastering geospatial databases or adopting a new framework, I pick up tools quickly and efficiently.
 * **Passionate Coder:** I genuinely love programming. For me, it's not just about writing lines of code, but about building meaningful architecture and solving real-world problems.
 
 🌍 **Current Status:**
-Ich bin derzeit mit einem Working-Holiday-Visum hier. Mein Deutsch ist noch auf einem grundlegenden Niveau, aber ich lerne fleißig! Ich spreche fließend Englisch und kann mich im internationalen IT-Umfeld problemlos und souverän verständigen.
+I am currently based here on a Working Holiday Visa. While my German is still at a basic level (though I am actively studying it!), I speak fluent English and can communicate smoothly and confidently in any international IT environment.
+*(Anmerkung: Ich bin derzeit mit einem Working-Holiday-Visum hier. Mein Deutsch ist noch auf einem Basisniveau, aber ich lerne fleißig! Ich spreche fließend Englisch und kann mich im IT-Umfeld problemlos verständigen.)*
 
 ---
 
@@ -36,10 +38,21 @@ Ich bin derzeit mit einem Working-Holiday-Visum hier. Mein Deutsch ist noch auf 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
-**Tools & Methodologies:**
+**Tools, AI & Methodologies:**
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Scrum](https://img.shields.io/badge/-SCRUM-05122A?style=flat)&nbsp;
+![Google Gemini](https://img.shields.io/badge/-Google%20Gemini-05122A?style=flat&logo=googlegemini)&nbsp;
+
+---
+
+### 💼 &nbsp;Experience
+
+**Full-Stack Developer Intern** - *Tech Startup (New Zealand / Remote)*
+*Completed a 6-month part-time internship within an agile environment.*
+* **Hands-on Development:** Collaborated in resolving tickets, debugging, and delivering features for a production-ready web application.
+* **Tech Stack Applied:** Worked heavily with JavaScript, Node.js, and React in real-world scenarios.
+* **Best Practices:** Participated in code reviews and adapted to standard industry workflows.
 
 ---
 
