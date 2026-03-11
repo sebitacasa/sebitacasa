@@ -62,5 +62,4 @@ Ich bin derzeit mit einem Working-Holiday-Visum hier. Mein Deutsch ist noch auf 
 
 ### 📫 &nbsp;Let's Connect!
 
-* **LinkedIn:** [Pega_AQUI_el_enlace_a_tu_LinkedIn]
-* **Email:** [Tu_Correo_AQUI]
+* **Email:** seba.-14@hotmail.com
