@@ -60,7 +60,7 @@ I am currently based here on a Working Holiday Visa. While my German is still at
 
 * [**🏰 CastleApp (Echoes & Paths)**](https://github.com/sebitacasa/CastleApp-frontEnd) - Geospatial mobile app discovering European heritage using React Native and PostGIS. 
 *(Currently in Closed Internal Testing on Google Play. Access to the testing track available upon request!)*
-* [**🎬 WatchIt**](https://watchit-frontend.vercel.app) - A modern, interactive web interface for tracking and discovering movies and series.
+* [**🎬 WatchIt**](https://watchit-frontend.vercel.app) - https://github.com/sebitacasa/watchit-frontend. A modern, interactive web interface for tracking and discovering movies and series.
 * [**📅 Events App**](https://new-events-final-bh3s.vercel.app) - A full-stack platform designed for managing, creating, and discovering local events.
 
 ---
