@@ -106,6 +106,7 @@ Haag, Niederösterreich, Austria · Work permit active · Available immediately
 
 ### 📫 &nbsp;Let's Connect!
 
+[![Portfolio](https://img.shields.io/badge/-srodriguez.dev-05122A?style=flat&logo=vercel)](https://www.srodriguez.dev)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-Sebastian_Rodriguez-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sebastian-rodriguez-8336a93b6)&nbsp;
 [![Email](https://img.shields.io/badge/-seba.-14@hotmail.com-05122A?style=flat&logo=microsoftoutlook)](mailto:seba.-14@hotmail.com)&nbsp;
 [![Dual-Stack Studio](https://img.shields.io/badge/-Dual--Stack_Studio-05122A?style=flat&logo=github)](https://github.com/Dual-Stack-Studio)&nbsp;
